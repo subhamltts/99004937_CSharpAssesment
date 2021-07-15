@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace employee
+namespace ProblemTwo_CompilationError
 {
-    class employee
+    class Employee
     {
-
         public int EmpID { get; set; }
         public string EmpName { get; set; }
         public int EmpLevel { get; set; }
@@ -18,9 +17,9 @@ namespace employee
         public Employee()
         {
             //Default number of leaves credited is 2 per month based on date of joining to the current date
-            NoOfLeaves = GetMonthDifference(DateOfJoining, DateTime.Now) * 2;
+            NoOfLeaves= GetMonthDifference(DateOfJoining, DateTime.Now) * 2;
         }
-        public Employee(int eID, string eName, int eLevel, DateTime eDoJ)
+        public Employee(int eID,string eName,int eLevel, DateTime eDoJ)
         {
 
         }

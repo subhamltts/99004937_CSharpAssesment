@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FDCC7983-FB04-4678-AC97-4F63B1084AD8}</ProjectGuid>
+    <ProjectGuid>{021FF85E-C583-4EDD-8579-66F0D1085A62}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>problemtwo_compilationerror</RootNamespace>
-    <AssemblyName>problemtwo_compilationerror</AssemblyName>
+    <RootNamespace>ProblemTwo_CompilationError</RootNamespace>
+    <AssemblyName>ProblemTwo_CompilationError</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DirectReport.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="Manager.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
