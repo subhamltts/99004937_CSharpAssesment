@@ -1,0 +1,7 @@
+C:\Users\Hp\Desktop\C# GENESIS\problemone_LogicalError\problemone_LogicalError\bin\Debug\problemone_LogicalError.exe.config
+C:\Users\Hp\Desktop\C# GENESIS\problemone_LogicalError\problemone_LogicalError\bin\Debug\problemone_LogicalError.exe
+C:\Users\Hp\Desktop\C# GENESIS\problemone_LogicalError\problemone_LogicalError\bin\Debug\problemone_LogicalError.pdb
+C:\Users\Hp\Desktop\C# GENESIS\problemone_LogicalError\problemone_LogicalError\obj\Debug\problemone_LogicalError.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\C# GENESIS\problemone_LogicalError\problemone_LogicalError\obj\Debug\problemone_LogicalError.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C# GENESIS\problemone_LogicalError\problemone_LogicalError\obj\Debug\problemone_LogicalError.exe
+C:\Users\Hp\Desktop\C# GENESIS\problemone_LogicalError\problemone_LogicalError\obj\Debug\problemone_LogicalError.pdb
