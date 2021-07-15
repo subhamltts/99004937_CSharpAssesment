@@ -17,5 +17,14 @@ namespace DirectReport
             ReportsTo = managerEmpObj;
             ProjectCode = pCode;
         }
+        public DirectReport(int eid,string,ename,int elevel,Datetime edoj.employee reports, string projectcode)
+        {
+            this.Empid = eid;
+            this.Empname = eName;
+            this.Emplevel =eLevel;
+            this.DateofJoining = eDoj;
+            this.reportsTo=Reports;
+            this.Projectcode = ProjectCode;
+        }
     }
 }
